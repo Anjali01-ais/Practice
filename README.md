@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anjali01-ais/Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0344-reverse-string](https://github.com/Anjali01-ais/Practice/tree/master/0344-reverse-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anjali01-ais/Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0344-reverse-string](https://github.com/Anjali01-ais/Practice/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
 | ------- |
