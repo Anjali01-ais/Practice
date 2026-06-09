@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Anjali01-ais/Practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Anjali01-ais/Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anjali01-ais/Practice/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/Anjali01-ais/Practice/tree/master/0680-valid-palindrome-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Anjali01-ais/Practice/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anjali01-ais/Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Anjali01-ais/Practice/tree/master/0344-reverse-string) |
+| [0680-valid-palindrome-ii](https://github.com/Anjali01-ais/Practice/tree/master/0680-valid-palindrome-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anjali01-ais/Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Binary Search
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anjali01-ais/Practice/tree/master/0011-container-with-most-water) |
+| [0680-valid-palindrome-ii](https://github.com/Anjali01-ais/Practice/tree/master/0680-valid-palindrome-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Anjali01-ais/Practice/tree/master/3689-maximum-total-subarray-value-i) |
 ## Simulation
 |  |
