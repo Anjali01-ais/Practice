@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0343-integer-break](https://github.com/Anjali01-ais/Practice/tree/master/0343-integer-break) |
 | [0523-continuous-subarray-sum](https://github.com/Anjali01-ais/Practice/tree/master/0523-continuous-subarray-sum) |
 ## Tree
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anjali01-ais/Practice/tree/master/0042-trapping-rain-water) |
+| [0343-integer-break](https://github.com/Anjali01-ais/Practice/tree/master/0343-integer-break) |
 ## Stack
 |  |
 | ------- |
