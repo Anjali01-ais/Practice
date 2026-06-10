@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anjali01-ais/Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Anjali01-ais/Practice/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Anjali01-ais/Practice/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Anjali01-ais/Practice/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Anjali01-ais/Practice/tree/master/0347-top-k-frequent-elements) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Anjali01-ais/Practice/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Anjali01-ais/Practice/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/Anjali01-ais/Practice/tree/master/0680-valid-palindrome-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Anjali01-ais/Practice/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Anjali01-ais/Practice/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -169,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Anjali01-ais/Practice/tree/master/0085-maximal-rectangle) |
+## Segment Tree
+|  |
+| ------- |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Anjali01-ais/Practice/tree/master/3691-maximum-total-subarray-value-ii) |
 <!---LeetCode Topics End-->
