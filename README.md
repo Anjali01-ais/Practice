@@ -82,10 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0343-integer-break](https://github.com/Anjali01-ais/Practice/tree/master/0343-integer-break) |
 | [0523-continuous-subarray-sum](https://github.com/Anjali01-ais/Practice/tree/master/0523-continuous-subarray-sum) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Anjali01-ais/Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Tree
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Anjali01-ais/Practice/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Anjali01-ais/Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Tree
 |  |
 | ------- |
@@ -187,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Anjali01-ais/Practice/tree/master/0287-find-the-duplicate-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Anjali01-ais/Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 <!---LeetCode Topics End-->
