@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Anjali01-ais/Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Anjali01-ais/Practice/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/Anjali01-ais/Practice/tree/master/0917-reverse-only-letters) |
+| [3838-weighted-word-mapping](https://github.com/Anjali01-ais/Practice/tree/master/3838-weighted-word-mapping) |
 ## Backtracking
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Anjali01-ais/Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Anjali01-ais/Practice/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Anjali01-ais/Practice/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3838-weighted-word-mapping](https://github.com/Anjali01-ais/Practice/tree/master/3838-weighted-word-mapping) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anjali01-ais/Practice/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3838-weighted-word-mapping](https://github.com/Anjali01-ais/Practice/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
 | ------- |
