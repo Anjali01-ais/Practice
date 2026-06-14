@@ -11,20 +11,35 @@
 class Solution {
 public:
     int pairSum(ListNode* head) {
-        vector<int> arr;
-        // Step 1: Convert linked list to array
-        while (head != NULL) {
-            arr.push_back(head->val);
-            head = head->next;
-        }
-        // Step 2: Two pointer to find max twin sum
-        int i = 0, j = arr.size() - 1;
-        int maxi = 0;
+       // Step 1: Find middle
+        ListNode* slow = head;
+        ListNode* fast = head;
 
-        while (i < j) {
-            maxi = max(maxi, arr[i] + arr[j]);
-            i++;
-            j--;
+        while (fast != NULL && fast->next != NULL) {
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+
+        // Step 2: Reverse second half
+        ListNode* prev = NULL;
+        ListNode* curr = slow;
+
+        while (curr != NULL) {
+            ListNode* nextNode = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = nextNode;
+        }
+
+        // Step 3: Compare both halves
+        int maxi = 0;
+        ListNode* first = head;
+        ListNode* second = prev;
+
+        while (second != NULL) {
+            maxi = max(maxi, first->val + second->val);
+            first = first->next;
+            second = second->next;
         }
 
         return maxi; 
