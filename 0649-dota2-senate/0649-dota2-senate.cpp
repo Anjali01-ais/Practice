@@ -1,36 +1,32 @@
 class Solution {
 public:
-    bool removechar(string &senate,char c,int idx){
-        bool checkleft=false;
+int n;
+    void removechar(string &senate,vector<bool>&removed,char c,int idx){
+        
         while(true){
-            if(idx==0){
-                checkleft=true;
-            }
-            if(senate[idx]==c){
-                senate.erase(begin(senate)+idx);
+            if(senate[idx]==c && removed[idx]==false){
+               removed[idx]=true;
                 break;
             }
             idx=(idx+1)%senate.length();
         }
-        return checkleft;
+        
     }
     string predictPartyVictory(string senate) {
+        n=senate.length();
         int rcnt=count(senate.begin(),senate.end(),'R');
         int dcnt=senate.length()-rcnt;
+        vector<bool>removed(n,false);
         int i=0;
         while(rcnt>0&&dcnt>0){
+            if(removed[i]==false){
             if(senate[i]=='R'){
-                bool checkleft=removechar(senate,'D',(i+1)%senate.length());
+                removechar(senate,removed,'D',(i+1)%senate.length());
                 dcnt--;
-                if( checkleft){
-                    i--;
-                }
             }else{
-                bool checkleft=removechar(senate,'R',(i+1)%senate.length());
+                removechar(senate,removed,'R',(i+1)%senate.length());
                 rcnt--;
-                if( checkleft){
-                    i--;
-                }
+            }
             }
             i=(i+1)%senate.length();
         }
