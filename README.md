@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0343-integer-break](https://github.com/Anjali01-ais/Practice/tree/master/0343-integer-break) |
+| [0507-perfect-number](https://github.com/Anjali01-ais/Practice/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/Anjali01-ais/Practice/tree/master/0523-continuous-subarray-sum) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Anjali01-ais/Practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Anjali01-ais/Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
