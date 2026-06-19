@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Anjali01-ais/Practice/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/Anjali01-ais/Practice/tree/master/0206-reverse-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Anjali01-ais/Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Anjali01-ais/Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Matrix
@@ -244,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/Anjali01-ais/Practice/tree/master/0649-dota2-senate) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Anjali01-ais/Practice/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
