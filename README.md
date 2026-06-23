@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anjali01-ais/Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Anjali01-ais/Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Anjali01-ais/Practice/tree/master/1732-find-the-highest-altitude) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Anjali01-ais/Practice/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/Anjali01-ais/Practice/tree/master/0343-integer-break) |
 | [0416-partition-equal-subset-sum](https://github.com/Anjali01-ais/Practice/tree/master/0416-partition-equal-subset-sum) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Anjali01-ais/Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Anjali01-ais/Practice/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Stack
 |  |
 | ------- |
