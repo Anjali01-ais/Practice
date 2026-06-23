@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Anjali01-ais/Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Anjali01-ais/Practice/tree/master/0085-maximal-rectangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anjali01-ais/Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/Anjali01-ais/Practice/tree/master/0198-house-robber) |
 | [0287-find-the-duplicate-number](https://github.com/Anjali01-ais/Practice/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Anjali01-ais/Practice/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Anjali01-ais/Practice/tree/master/0347-top-k-frequent-elements) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anjali01-ais/Practice/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Anjali01-ais/Practice/tree/master/0085-maximal-rectangle) |
+| [0198-house-robber](https://github.com/Anjali01-ais/Practice/tree/master/0198-house-robber) |
 | [0343-integer-break](https://github.com/Anjali01-ais/Practice/tree/master/0343-integer-break) |
 | [0416-partition-equal-subset-sum](https://github.com/Anjali01-ais/Practice/tree/master/0416-partition-equal-subset-sum) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Anjali01-ais/Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
