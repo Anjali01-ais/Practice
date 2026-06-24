@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Anjali01-ais/Practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Anjali01-ais/Practice/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Anjali01-ais/Practice/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/Anjali01-ais/Practice/tree/master/0343-integer-break) |
 | [0507-perfect-number](https://github.com/Anjali01-ais/Practice/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/Anjali01-ais/Practice/tree/master/0523-continuous-subarray-sum) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Anjali01-ais/Practice/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Anjali01-ais/Practice/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/Anjali01-ais/Practice/tree/master/0342-power-of-four) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Anjali01-ais/Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Anjali01-ais/Practice/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Anjali01-ais/Practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Anjali01-ais/Practice/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Anjali01-ais/Practice/tree/master/0342-power-of-four) |
 ## Counting Sort
 |  |
 | ------- |
