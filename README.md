@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/Anjali01-ais/Practice/tree/master/1840-maximum-building-height) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Anjali01-ais/Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Anjali01-ais/Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Anjali01-ais/Practice/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Tree
 |  |
 | ------- |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Anjali01-ais/Practice/tree/master/0416-partition-equal-subset-sum) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Anjali01-ais/Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Anjali01-ais/Practice/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/Anjali01-ais/Practice/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Stack
 |  |
 | ------- |
