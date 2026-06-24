@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Anjali01-ais/Practice/tree/master/0231-power-of-two) |
 | [0343-integer-break](https://github.com/Anjali01-ais/Practice/tree/master/0343-integer-break) |
 | [0507-perfect-number](https://github.com/Anjali01-ais/Practice/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/Anjali01-ais/Practice/tree/master/0523-continuous-subarray-sum) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Anjali01-ais/Practice/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Anjali01-ais/Practice/tree/master/0287-find-the-duplicate-number) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Anjali01-ais/Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Anjali01-ais/Practice/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Anjali01-ais/Practice/tree/master/0231-power-of-two) |
 ## Counting Sort
 |  |
 | ------- |
