@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Anjali01-ais/Practice/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Anjali01-ais/Practice/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Anjali01-ais/Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/Anjali01-ais/Practice/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Anjali01-ais/Practice/tree/master/0621-task-scheduler) |
 | [0724-find-pivot-index](https://github.com/Anjali01-ais/Practice/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Anjali01-ais/Practice/tree/master/0735-asteroid-collision) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anjali01-ais/Practice/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/Anjali01-ais/Practice/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Anjali01-ais/Practice/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/Anjali01-ais/Practice/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/Anjali01-ais/Practice/tree/master/0680-valid-palindrome-ii) |
