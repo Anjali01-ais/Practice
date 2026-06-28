@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Anjali01-ais/Practice/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anjali01-ais/Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Anjali01-ais/Practice/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Anjali01-ais/Practice/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Anjali01-ais/Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anjali01-ais/Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/Anjali01-ais/Practice/tree/master/0242-valid-anagram) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Anjali01-ais/Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Anjali01-ais/Practice/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Anjali01-ais/Practice/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Anjali01-ais/Practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Anjali01-ais/Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anjali01-ais/Practice/tree/master/0344-reverse-string) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Anjali01-ais/Practice/tree/master/0076-minimum-window-substring) |
 | [0930-binary-subarrays-with-sum](https://github.com/Anjali01-ais/Practice/tree/master/0930-binary-subarrays-with-sum) |
 ## Design
 |  |
