@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Anjali01-ais/Practice/tree/master/0735-asteroid-collision) |
 | [0930-binary-subarrays-with-sum](https://github.com/Anjali01-ais/Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anjali01-ais/Practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anjali01-ais/Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Anjali01-ais/Practice/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1470-shuffle-the-array](https://github.com/Anjali01-ais/Practice/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Anjali01-ais/Practice/tree/master/1480-running-sum-of-1d-array) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Anjali01-ais/Practice/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Anjali01-ais/Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anjali01-ais/Practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anjali01-ais/Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Anjali01-ais/Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Anjali01-ais/Practice/tree/master/1732-find-the-highest-altitude) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Anjali01-ais/Practice/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Anjali01-ais/Practice/tree/master/0076-minimum-window-substring) |
 | [0930-binary-subarrays-with-sum](https://github.com/Anjali01-ais/Practice/tree/master/0930-binary-subarrays-with-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anjali01-ais/Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anjali01-ais/Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/Anjali01-ais/Practice/tree/master/2653-sliding-subarray-beauty) |
 ## Design
