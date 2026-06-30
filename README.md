@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Anjali01-ais/Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Anjali01-ais/Practice/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Anjali01-ais/Practice/tree/master/0621-task-scheduler) |
+| [0643-maximum-average-subarray-i](https://github.com/Anjali01-ais/Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Anjali01-ais/Practice/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Anjali01-ais/Practice/tree/master/0735-asteroid-collision) |
 | [0930-binary-subarrays-with-sum](https://github.com/Anjali01-ais/Practice/tree/master/0930-binary-subarrays-with-sum) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Anjali01-ais/Practice/tree/master/0076-minimum-window-substring) |
+| [0643-maximum-average-subarray-i](https://github.com/Anjali01-ais/Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/Anjali01-ais/Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anjali01-ais/Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anjali01-ais/Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
