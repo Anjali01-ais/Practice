@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Anjali01-ais/Practice/tree/master/0098-validate-binary-search-tree) |
 | [0207-course-schedule](https://github.com/Anjali01-ais/Practice/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Anjali01-ais/Practice/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anjali01-ais/Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0785-is-graph-bipartite](https://github.com/Anjali01-ais/Practice/tree/master/0785-is-graph-bipartite) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Anjali01-ais/Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Anjali01-ais/Practice/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Anjali01-ais/Practice/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/Anjali01-ais/Practice/tree/master/0785-is-graph-bipartite) |
 ## Union-Find
 |  |
@@ -375,9 +377,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Anjali01-ais/Practice/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Anjali01-ais/Practice/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/Anjali01-ais/Practice/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Anjali01-ais/Practice/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/Anjali01-ais/Practice/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
