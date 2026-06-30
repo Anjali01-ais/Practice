@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Anjali01-ais/Practice/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anjali01-ais/Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0785-is-graph-bipartite](https://github.com/Anjali01-ais/Practice/tree/master/0785-is-graph-bipartite) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Anjali01-ais/Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Anjali01-ais/Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Ordered Set
@@ -360,4 +361,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Anjali01-ais/Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Anjali01-ais/Practice/tree/master/0785-is-graph-bipartite) |
+## Union-Find
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Anjali01-ais/Practice/tree/master/0785-is-graph-bipartite) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Anjali01-ais/Practice/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
