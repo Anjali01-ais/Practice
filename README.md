@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Anjali01-ais/Practice/tree/master/0735-asteroid-collision) |
 | [0930-binary-subarrays-with-sum](https://github.com/Anjali01-ais/Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anjali01-ais/Practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1288-remove-covered-intervals](https://github.com/Anjali01-ais/Practice/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Anjali01-ais/Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anjali01-ais/Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Anjali01-ais/Practice/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Anjali01-ais/Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Anjali01-ais/Practice/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Anjali01-ais/Practice/tree/master/0621-task-scheduler) |
+| [1288-remove-covered-intervals](https://github.com/Anjali01-ais/Practice/tree/master/1288-remove-covered-intervals) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Anjali01-ais/Practice/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1833-maximum-ice-cream-bars](https://github.com/Anjali01-ais/Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Anjali01-ais/Practice/tree/master/1840-maximum-building-height) |
