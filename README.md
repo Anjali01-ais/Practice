@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Anjali01-ais/Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anjali01-ais/Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/Anjali01-ais/Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Anjali01-ais/Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Anjali01-ais/Practice/tree/master/0347-top-k-frequent-elements) |
 | [0454-4sum-ii](https://github.com/Anjali01-ais/Practice/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/Anjali01-ais/Practice/tree/master/0496-next-greater-element-i) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anjali01-ais/Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Anjali01-ais/Practice/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/Anjali01-ais/Practice/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Anjali01-ais/Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Anjali01-ais/Practice/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Anjali01-ais/Practice/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Anjali01-ais/Practice/tree/master/0347-top-k-frequent-elements) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Anjali01-ais/Practice/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Anjali01-ais/Practice/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Anjali01-ais/Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Anjali01-ais/Practice/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/Anjali01-ais/Practice/tree/master/0343-integer-break) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Anjali01-ais/Practice/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Anjali01-ais/Practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Anjali01-ais/Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Anjali01-ais/Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Anjali01-ais/Practice/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Anjali01-ais/Practice/tree/master/0621-task-scheduler) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Anjali01-ais/Practice/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
@@ -246,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anjali01-ais/Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Anjali01-ais/Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Anjali01-ais/Practice/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/Anjali01-ais/Practice/tree/master/0456-132-pattern) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Anjali01-ais/Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -333,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Anjali01-ais/Practice/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Anjali01-ais/Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Anjali01-ais/Practice/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Anjali01-ais/Practice/tree/master/0342-power-of-four) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Anjali01-ais/Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
