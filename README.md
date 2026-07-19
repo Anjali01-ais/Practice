@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/Anjali01-ais/Practice/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/Anjali01-ais/Practice/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/Anjali01-ais/Practice/tree/master/0917-reverse-only-letters) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anjali01-ais/Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Anjali01-ais/Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anjali01-ais/Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Anjali01-ais/Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Anjali01-ais/Practice/tree/master/0621-task-scheduler) |
 | [0649-dota2-senate](https://github.com/Anjali01-ais/Practice/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/Anjali01-ais/Practice/tree/master/0680-valid-palindrome-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anjali01-ais/Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Anjali01-ais/Practice/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1833-maximum-ice-cream-bars](https://github.com/Anjali01-ais/Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Anjali01-ais/Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Anjali01-ais/Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Anjali01-ais/Practice/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Anjali01-ais/Practice/tree/master/0735-asteroid-collision) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anjali01-ais/Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Anjali01-ais/Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
@@ -345,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Anjali01-ais/Practice/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Anjali01-ais/Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Anjali01-ais/Practice/tree/master/0503-next-greater-element-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Anjali01-ais/Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Linked List
 |  |
 | ------- |
