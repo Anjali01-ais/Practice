@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Anjali01-ais/Practice/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Anjali01-ais/Practice/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Anjali01-ais/Practice/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anjali01-ais/Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Anjali01-ais/Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anjali01-ais/Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/Anjali01-ais/Practice/tree/master/0242-valid-anagram) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Anjali01-ais/Practice/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anjali01-ais/Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Anjali01-ais/Practice/tree/master/0085-maximal-rectangle) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anjali01-ais/Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anjali01-ais/Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Anjali01-ais/Practice/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/Anjali01-ais/Practice/tree/master/0238-product-of-array-except-self) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Anjali01-ais/Practice/tree/master/0098-validate-binary-search-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anjali01-ais/Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/Anjali01-ais/Practice/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Anjali01-ais/Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anjali01-ais/Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Anjali01-ais/Practice/tree/master/0098-validate-binary-search-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anjali01-ais/Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/Anjali01-ais/Practice/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Anjali01-ais/Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anjali01-ais/Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -213,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anjali01-ais/Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/Anjali01-ais/Practice/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Anjali01-ais/Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Anjali01-ais/Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
