@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Anjali01-ais/Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Anjali01-ais/Practice/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Anjali01-ais/Practice/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Anjali01-ais/Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Anjali01-ais/Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Anjali01-ais/Practice/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Anjali01-ais/Practice/tree/master/0735-asteroid-collision) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/Anjali01-ais/Practice/tree/master/0343-integer-break) |
 | [0507-perfect-number](https://github.com/Anjali01-ais/Practice/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/Anjali01-ais/Practice/tree/master/0523-continuous-subarray-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Anjali01-ais/Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Anjali01-ais/Practice/tree/master/0728-self-dividing-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Anjali01-ais/Practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/Anjali01-ais/Practice/tree/master/1840-maximum-building-height) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Anjali01-ais/Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Anjali01-ais/Practice/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Anjali01-ais/Practice/tree/master/0621-task-scheduler) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Anjali01-ais/Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Anjali01-ais/Practice/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Anjali01-ais/Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Anjali01-ais/Practice/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
