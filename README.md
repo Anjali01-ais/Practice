@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Anjali01-ais/Practice/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anjali01-ais/Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/Anjali01-ais/Practice/tree/master/2653-sliding-subarray-beauty) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anjali01-ais/Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Anjali01-ais/Practice/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anjali01-ais/Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Anjali01-ais/Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anjali01-ais/Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Anjali01-ais/Practice/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anjali01-ais/Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anjali01-ais/Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Anjali01-ais/Practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Anjali01-ais/Practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Anjali01-ais/Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/Anjali01-ais/Practice/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Anjali01-ais/Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Anjali01-ais/Practice/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anjali01-ais/Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Anjali01-ais/Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anjali01-ais/Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Anjali01-ais/Practice/tree/master/3536-maximum-product-of-two-digits) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Anjali01-ais/Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Anjali01-ais/Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Anjali01-ais/Practice/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anjali01-ais/Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anjali01-ais/Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Anjali01-ais/Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Anjali01-ais/Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -336,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Anjali01-ais/Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Anjali01-ais/Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anjali01-ais/Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anjali01-ais/Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anjali01-ais/Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Anjali01-ais/Practice/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Anjali01-ais/Practice/tree/master/3691-maximum-total-subarray-value-ii) |
