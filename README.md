@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Anjali01-ais/Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0454-4sum-ii](https://github.com/Anjali01-ais/Practice/tree/master/0454-4sum-ii) |
 | [0456-132-pattern](https://github.com/Anjali01-ais/Practice/tree/master/0456-132-pattern) |
+| [0486-predict-the-winner](https://github.com/Anjali01-ais/Practice/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Anjali01-ais/Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Anjali01-ais/Practice/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Anjali01-ais/Practice/tree/master/0523-continuous-subarray-sum) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Anjali01-ais/Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Anjali01-ais/Practice/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/Anjali01-ais/Practice/tree/master/0343-integer-break) |
+| [0486-predict-the-winner](https://github.com/Anjali01-ais/Practice/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/Anjali01-ais/Practice/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/Anjali01-ais/Practice/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Anjali01-ais/Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Anjali01-ais/Practice/tree/master/0198-house-robber) |
 | [0343-integer-break](https://github.com/Anjali01-ais/Practice/tree/master/0343-integer-break) |
 | [0416-partition-equal-subset-sum](https://github.com/Anjali01-ais/Practice/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/Anjali01-ais/Practice/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Anjali01-ais/Practice/tree/master/0542-01-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/Anjali01-ais/Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anjali01-ais/Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Anjali01-ais/Practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Anjali01-ais/Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Anjali01-ais/Practice/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/Anjali01-ais/Practice/tree/master/0486-predict-the-winner) |
 ## Counting Sort
 |  |
 | ------- |
@@ -542,4 +546,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anjali01-ais/Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Anjali01-ais/Practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Anjali01-ais/Practice/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
