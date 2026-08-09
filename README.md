@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Anjali01-ais/Practice/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/Anjali01-ais/Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anjali01-ais/Practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1140-stone-game-ii](https://github.com/Anjali01-ais/Practice/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Anjali01-ais/Practice/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Anjali01-ais/Practice/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Anjali01-ais/Practice/tree/master/1301-number-of-paths-with-max-score) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Anjali01-ais/Practice/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Anjali01-ais/Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anjali01-ais/Practice/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1140-stone-game-ii](https://github.com/Anjali01-ais/Practice/tree/master/1140-stone-game-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anjali01-ais/Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Anjali01-ais/Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Anjali01-ais/Practice/tree/master/1732-find-the-highest-altitude) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Anjali01-ais/Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Anjali01-ais/Practice/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/Anjali01-ais/Practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Anjali01-ais/Practice/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Anjali01-ais/Practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Anjali01-ais/Practice/tree/master/1406-stone-game-iii) |
 | [1840-maximum-building-height](https://github.com/Anjali01-ais/Practice/tree/master/1840-maximum-building-height) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Anjali01-ais/Practice/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Anjali01-ais/Practice/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/Anjali01-ais/Practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Anjali01-ais/Practice/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Anjali01-ais/Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Anjali01-ais/Practice/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anjali01-ais/Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -573,9 +577,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Anjali01-ais/Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Anjali01-ais/Practice/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Anjali01-ais/Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Anjali01-ais/Practice/tree/master/1406-stone-game-iii) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Anjali01-ais/Practice/tree/master/0070-climbing-stairs) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Anjali01-ais/Practice/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Anjali01-ais/Practice/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
