@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Anjali01-ais/Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Anjali01-ais/Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Anjali01-ais/Practice/tree/master/0347-top-k-frequent-elements) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Anjali01-ais/Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0454-4sum-ii](https://github.com/Anjali01-ais/Practice/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/Anjali01-ais/Practice/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Anjali01-ais/Practice/tree/master/0523-continuous-subarray-sum) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Anjali01-ais/Practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Anjali01-ais/Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Anjali01-ais/Practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Anjali01-ais/Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0649-dota2-senate](https://github.com/Anjali01-ais/Practice/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/Anjali01-ais/Practice/tree/master/0680-valid-palindrome-ii) |
 | [0917-reverse-only-letters](https://github.com/Anjali01-ais/Practice/tree/master/0917-reverse-only-letters) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Anjali01-ais/Practice/tree/master/0076-minimum-window-substring) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Anjali01-ais/Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Anjali01-ais/Practice/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/Anjali01-ais/Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anjali01-ais/Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anjali01-ais/Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/Anjali01-ais/Practice/tree/master/0347-top-k-frequent-elements) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Anjali01-ais/Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Anjali01-ais/Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Anjali01-ais/Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sorting
