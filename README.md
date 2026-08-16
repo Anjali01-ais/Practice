@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Anjali01-ais/Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anjali01-ais/Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anjali01-ais/Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Anjali01-ais/Practice/tree/master/2029-stone-game-ix) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anjali01-ais/Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Anjali01-ais/Practice/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anjali01-ais/Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Anjali01-ais/Practice/tree/master/1510-stone-game-iv) |
 | [1840-maximum-building-height](https://github.com/Anjali01-ais/Practice/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anjali01-ais/Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Anjali01-ais/Practice/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anjali01-ais/Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anjali01-ais/Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anjali01-ais/Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Anjali01-ais/Practice/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/Anjali01-ais/Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Anjali01-ais/Practice/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2029-stone-game-ix](https://github.com/Anjali01-ais/Practice/tree/master/2029-stone-game-ix) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Anjali01-ais/Practice/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anjali01-ais/Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anjali01-ais/Practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Anjali01-ais/Practice/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1833-maximum-ice-cream-bars](https://github.com/Anjali01-ais/Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Anjali01-ais/Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/Anjali01-ais/Practice/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anjali01-ais/Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anjali01-ais/Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anjali01-ais/Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -608,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Anjali01-ais/Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Anjali01-ais/Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Anjali01-ais/Practice/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Anjali01-ais/Practice/tree/master/2029-stone-game-ix) |
 ## Memoization
 |  |
 | ------- |
@@ -617,15 +622,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/Anjali01-ais/Practice/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Anjali01-ais/Practice/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Anjali01-ais/Practice/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Anjali01-ais/Practice/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Anjali01-ais/Practice/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Anjali01-ais/Practice/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Anjali01-ais/Practice/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Anjali01-ais/Practice/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
