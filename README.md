@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Anjali01-ais/Practice/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1470-shuffle-the-array](https://github.com/Anjali01-ais/Practice/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Anjali01-ais/Practice/tree/master/1480-running-sum-of-1d-array) |
+| [1563-stone-game-v](https://github.com/Anjali01-ais/Practice/tree/master/1563-stone-game-v) |
 | [1732-find-the-highest-altitude](https://github.com/Anjali01-ais/Practice/tree/master/1732-find-the-highest-altitude) |
 | [1765-map-of-highest-peak](https://github.com/Anjali01-ais/Practice/tree/master/1765-map-of-highest-peak) |
 | [1833-maximum-ice-cream-bars](https://github.com/Anjali01-ais/Practice/tree/master/1833-maximum-ice-cream-bars) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/Anjali01-ais/Practice/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Anjali01-ais/Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Anjali01-ais/Practice/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Anjali01-ais/Practice/tree/master/1563-stone-game-v) |
 | [1840-maximum-building-height](https://github.com/Anjali01-ais/Practice/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Anjali01-ais/Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Anjali01-ais/Practice/tree/master/2029-stone-game-ix) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Anjali01-ais/Practice/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Anjali01-ais/Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Anjali01-ais/Practice/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Anjali01-ais/Practice/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anjali01-ais/Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anjali01-ais/Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Anjali01-ais/Practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -617,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Anjali01-ais/Practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Anjali01-ais/Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Anjali01-ais/Practice/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Anjali01-ais/Practice/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Anjali01-ais/Practice/tree/master/2029-stone-game-ix) |
 ## Memoization
 |  |
