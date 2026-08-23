@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anjali01-ais/Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Anjali01-ais/Practice/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/Anjali01-ais/Practice/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Anjali01-ais/Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Anjali01-ais/Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Anjali01-ais/Practice/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Anjali01-ais/Practice/tree/master/0303-range-sum-query-immutable) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anjali01-ais/Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/Anjali01-ais/Practice/tree/master/0148-sort-list) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Anjali01-ais/Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Anjali01-ais/Practice/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Anjali01-ais/Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Anjali01-ais/Practice/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Anjali01-ais/Practice/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anjali01-ais/Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Anjali01-ais/Practice/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Anjali01-ais/Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Anjali01-ais/Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Anjali01-ais/Practice/tree/master/0287-find-the-duplicate-number) |
 | [0456-132-pattern](https://github.com/Anjali01-ais/Practice/tree/master/0456-132-pattern) |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Anjali01-ais/Practice/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Anjali01-ais/Practice/tree/master/0085-maximal-rectangle) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Anjali01-ais/Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/Anjali01-ais/Practice/tree/master/0542-01-matrix) |
 | [1260-shift-2d-grid](https://github.com/Anjali01-ais/Practice/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Anjali01-ais/Practice/tree/master/1301-number-of-paths-with-max-score) |
