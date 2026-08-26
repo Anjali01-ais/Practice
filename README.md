@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Anjali01-ais/Practice/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Anjali01-ais/Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Anjali01-ais/Practice/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anjali01-ais/Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anjali01-ais/Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anjali01-ais/Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anjali01-ais/Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anjali01-ais/Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anjali01-ais/Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/Anjali01-ais/Practice/tree/master/2653-sliding-subarray-beauty) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anjali01-ais/Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anjali01-ais/Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anjali01-ais/Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Design
