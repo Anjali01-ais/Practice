@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Anjali01-ais/Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1563-stone-game-v](https://github.com/Anjali01-ais/Practice/tree/master/1563-stone-game-v) |
 | [1732-find-the-highest-altitude](https://github.com/Anjali01-ais/Practice/tree/master/1732-find-the-highest-altitude) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anjali01-ais/Practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1765-map-of-highest-peak](https://github.com/Anjali01-ais/Practice/tree/master/1765-map-of-highest-peak) |
 | [1833-maximum-ice-cream-bars](https://github.com/Anjali01-ais/Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Anjali01-ais/Practice/tree/master/1840-maximum-building-height) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Anjali01-ais/Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Anjali01-ais/Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Anjali01-ais/Practice/tree/master/1563-stone-game-v) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anjali01-ais/Practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1872-stone-game-viii](https://github.com/Anjali01-ais/Practice/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Anjali01-ais/Practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Anjali01-ais/Practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
