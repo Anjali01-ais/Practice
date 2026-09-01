@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Anjali01-ais/Practice/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Anjali01-ais/Practice/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Anjali01-ais/Practice/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Anjali01-ais/Practice/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Anjali01-ais/Practice/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anjali01-ais/Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Anjali01-ais/Practice/tree/master/0085-maximal-rectangle) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Anjali01-ais/Practice/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anjali01-ais/Practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/Anjali01-ais/Practice/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anjali01-ais/Practice/tree/master/0240-search-a-2d-matrix-ii) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anjali01-ais/Practice/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Anjali01-ais/Practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Anjali01-ais/Practice/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Anjali01-ais/Practice/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Anjali01-ais/Practice/tree/master/0085-maximal-rectangle) |
