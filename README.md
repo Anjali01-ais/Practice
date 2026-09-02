@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Anjali01-ais/Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Anjali01-ais/Practice/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Anjali01-ais/Practice/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Anjali01-ais/Practice/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anjali01-ais/Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/Anjali01-ais/Practice/tree/master/2653-sliding-subarray-beauty) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Anjali01-ais/Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Anjali01-ais/Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Anjali01-ais/Practice/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/Anjali01-ais/Practice/tree/master/1872-stone-game-viii) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Anjali01-ais/Practice/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Anjali01-ais/Practice/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anjali01-ais/Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Anjali01-ais/Practice/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Anjali01-ais/Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Anjali01-ais/Practice/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Anjali01-ais/Practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Anjali01-ais/Practice/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Anjali01-ais/Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2653-sliding-subarray-beauty](https://github.com/Anjali01-ais/Practice/tree/master/2653-sliding-subarray-beauty) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anjali01-ais/Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Anjali01-ais/Practice/tree/master/0456-132-pattern) |
 | [0713-subarray-product-less-than-k](https://github.com/Anjali01-ais/Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Anjali01-ais/Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Anjali01-ais/Practice/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Anjali01-ais/Practice/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anjali01-ais/Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Anjali01-ais/Practice/tree/master/3312-sorted-gcd-pair-queries) |
