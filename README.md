@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Anjali01-ais/Practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Anjali01-ais/Practice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Anjali01-ais/Practice/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Anjali01-ais/Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Anjali01-ais/Practice/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Anjali01-ais/Practice/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Anjali01-ais/Practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Anjali01-ais/Practice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Anjali01-ais/Practice/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Anjali01-ais/Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -580,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Anjali01-ais/Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0785-is-graph-bipartite](https://github.com/Anjali01-ais/Practice/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Anjali01-ais/Practice/tree/master/0802-find-eventual-safe-states) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Anjali01-ais/Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Anjali01-ais/Practice/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Anjali01-ais/Practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Anjali01-ais/Practice/tree/master/3310-remove-methods-from-project) |
