@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Anjali01-ais/Practice/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Anjali01-ais/Practice/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Anjali01-ais/Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/Anjali01-ais/Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Anjali01-ais/Practice/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/Anjali01-ais/Practice/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Anjali01-ais/Practice/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Anjali01-ais/Practice/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Anjali01-ais/Practice/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Anjali01-ais/Practice/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/Anjali01-ais/Practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Anjali01-ais/Practice/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Anjali01-ais/Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Anjali01-ais/Practice/tree/master/1140-stone-game-ii) |
