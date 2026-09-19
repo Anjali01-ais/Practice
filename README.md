@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Anjali01-ais/Practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Anjali01-ais/Practice/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Anjali01-ais/Practice/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Anjali01-ais/Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Anjali01-ais/Practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Anjali01-ais/Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Anjali01-ais/Practice/tree/master/1563-stone-game-v) |
@@ -781,4 +782,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Anjali01-ais/Practice/tree/master/0075-sort-colors) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Anjali01-ais/Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
